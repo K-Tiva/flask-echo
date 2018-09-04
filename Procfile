@@ -1,1 +1,1 @@
-web: python app.py -p 443
+web: python app.py --port 443
